@@ -31,6 +31,8 @@
     "jhipsterVersion": "4.14.4",
     "packageFolder": "com/ippon/leanagile",
     "jwtSecretKey": "37a3211114b5adfd850361c92fbed822434695b3",
-    "jhiPrefix": "jhi"
+    "jhiPrefix": "jhi",
+    "herokuDeployType": "jar",
+    "herokuAppName": "calm-peak-75200"
   }
 }
